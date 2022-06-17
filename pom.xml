@@ -36,7 +36,7 @@
         <!-- JSTL版本 -->
         <jstl.version>1.2.5</jstl.version>
         <!--fastJSON版本号-->
-        <fastjson.version>1.2.59</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <!-- Apache编码工具包版本 -->
         <commons-codec.version>1.13</commons-codec.version>
         <!-- commons-fileupload版本 -->
