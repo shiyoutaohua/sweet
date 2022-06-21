@@ -26,7 +26,7 @@
         <mybatis.version>3.5.6</mybatis.version>
         <mybatis-spring.version>2.0.2</mybatis-spring.version>
         <!-- MySQL驱动版本 -->
-        <mysql-connector-java.version>8.0.17</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <!-- 数据库连接池版本 -->
         <druid.version>1.1.20</druid.version>
         <!-- servlet版本 -->
