@@ -40,7 +40,7 @@
         <!-- Apache编码工具包版本 -->
         <commons-codec.version>1.13</commons-codec.version>
         <!-- commons-fileupload版本 -->
-        <commons-fileupload.version>1.4</commons-fileupload.version>
+        <commons-fileupload.version>1.5</commons-fileupload.version>
         <!-- log4j日志文件管理包版本 -->
         <slf4j.version>1.7.28</slf4j.version>
         <log4j.version>2.12.1</log4j.version>
